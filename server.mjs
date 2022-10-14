@@ -74,7 +74,7 @@ app.listen(port, () => {
 
 
 
-// mongodb+srv://todoapp:<password>@cluster0.g3kfhon.mongodb.net/?retryWrites=true&w=majority
+mongodb+srv://todoapp:<password>@cluster0.g3kfhon.mongodb.net/?retryWrites=true&w=majority
 
 /////////////////////////////////////////////////////////////////////////////////////////////////
 // Mongodb
